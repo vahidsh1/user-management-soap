@@ -1,0 +1,27 @@
+
+}
+Msrc/main/java/com/digipay/usermanagement/repository/PermissionRepository.java,7\4\74370619b27b6d477d4e2007354d9fb8a42f51cc
+u
+Esrc/main/java/com/digipay/usermanagement/model/entity/Permission.java,7\7\7743cc6e96d2daa2712a02dcb87f15e856f6477a
+}
+Msrc/main/java/com/digipay/usermanagement/controller/PermissionController.java,d\7\d701c746e2648397eafd13db253f38febcd3933b
+u
+Esrc/main/java/com/digipay/usermanagement/controller/PermissionWS.java,b\c\bce52f7829196825762ebd13a626ebcc3cfd2066
+o
+?src/main/java/com/digipay/usermanagement/controller/RoleWS.java,5\a\5a856d23f250ede5216117b586fbedfb75af9a90
+w
+Gsrc/main/java/com/digipay/usermanagement/controller/UserController.java,1\4\14f5f9f3c0ba745c6fd5e1e9e7ee1b3573ffc703
+q
+Asrc/main/java/com/digipay/usermanagement/service/RoleService.java,e\e\ee662d14d62199e70ddf55577966fa8b5d19864c
+w
+Gsrc/main/java/com/digipay/usermanagement/repository/RoleRepository.java,a\6\a67f03363c35731495fc61e1e0cd72abb16b1f8a
+o
+?src/main/java/com/digipay/usermanagement/model/entity/Role.java,4\c\4c4993951c3534ad1e7d16eecaaac049bf684f8f
+o
+?src/main/java/com/digipay/usermanagement/controller/UserWS.java,7\5\75252d20722e1c462feb8f2fa98c9a79d74af043
+U
+%src/main/webapp/WEB-INF/sun-jaxws.xml,b\3\b38ea740159a2338034615ecd4bd3bf6f9bd528d
+O
+src/main/webapp/WEB-INF/web.xml,2\e\2e22b6edd746fa3dc40ad7276c87c8d87d72a392
+w
+Gsrc/main/java/com/digipay/usermanagement/controller/RoleController.java,0\3\038538e92cde7e1802d4fc01a087a033a608a85f
